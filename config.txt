@@ -1,0 +1,6 @@
+owner=537489317787074564
+prefix=%
+game=M.R D E D O
+stayinchannel=true
+songinstatus=false
+token=NTg3OTYzNTgxNTA5NjY0Nzcw.XQegaw.-XQYfYncKg3PA7GG3j8QYXQZ0XI
